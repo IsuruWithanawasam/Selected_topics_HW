@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 29 21:33:52 2025
 
-@author: Asus
+@author: Isuru Withanawasam
 """
 
 import numpy as np
@@ -129,6 +129,7 @@ plt.show()
 
 
 print('pulse duration after compression:',1e15*0.441/(fwhm_val_br*1e12))
+
 
 
 
